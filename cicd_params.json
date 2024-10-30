@@ -1,0 +1,12 @@
+{
+  "input_root_dir": "carharrt_dlt",
+  "input_cloud": "azure",
+  "input_cicd_platform": "azure_devops",
+  "input_default_branch": "main",
+  "input_release_branch": "release",
+  "cloud_specific_node_type_id": "v0.221.0",
+  "input_cli_version": "v0.221.0",
+  "test_catalog_name": "dev_datasci_db",
+  "staging_catalog_name": "qa_datasci_db",
+  "prod_catalog_name": "prod_datasci_db"
+}
