@@ -37,3 +37,14 @@ targets:
     workspace:
       host: https://adb-5402441514264631.11.azuredatabricks.net
 
+  qa_datasci_db:
+    workspace:
+      host: https://adb-5402441514264631.11.azuredatabricks.net
+
+  prod_datasci_db:
+    workspace:
+      host: https://adb-5402441514264631.11.azuredatabricks.net
+
+  dev_datasci_db:
+    workspace:
+      host: https://adb-5402441514264631.11.azuredatabricks.net
