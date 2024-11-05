@@ -1,6 +1,6 @@
 # Databricks notebook source
 ##################################################################################
-# Model Training Notebook using Databricks Feature Store pr7
+# Model Training Notebook using Databricks Feature Store pr8
 #
 # This notebook shows an example of a Model Training pipeline using Databricks Feature Store tables.
 # It is configured and can be executed as the "Train" task in the model_training_job workflow defined under
