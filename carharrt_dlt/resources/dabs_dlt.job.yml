@@ -1,4 +1,4 @@
-# The main job for dabs_dlt. dlt
+# The main job for dabs_dlt. dlt pr
 # This job runs dabs_dlt_pipeline on a schedule.
 resources:
   jobs:
