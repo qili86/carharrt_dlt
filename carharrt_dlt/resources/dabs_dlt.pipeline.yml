@@ -1,0 +1,13 @@
+# The main pipeline for dabs_dlt
+resources:
+  pipelines:
+    dabs_dlt_pipeline:
+      name: ${bundle.target}_dabs_dlt_pipeline
+      catalog: ${bundle.target}
+      target: carharrt_dlt
+      libraries:
+        - notebook:
+            path: ../src/dlt_pipeline.ipynb
+
+      configuration:
+        bundle.sourcePath: /Workspace/${workspace.file_path}/src
